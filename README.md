@@ -1,5 +1,4 @@
 # hse23_hw2
-
 https://colab.research.google.com/drive/1B_VT25idB199oDCpcM5npTGaSCH3IQS7?usp=sharing
 
 ### FastQC и MultiQC анализ.
