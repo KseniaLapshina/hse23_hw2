@@ -2,10 +2,16 @@
 https://colab.research.google.com/drive/1B_VT25idB199oDCpcM5npTGaSCH3IQS7?usp=sharing
 
 ### FastQC и MultiQC анализ.
-![image](https://user-images.githubusercontent.com/114621114/219989686-1b9d6cc3-8742-4e8f-9a6d-db87bab2f7ec.png)
-![image](https://user-images.githubusercontent.com/114621114/219989760-f887c6c0-5786-46b5-86a7-af260361cab6.png)
-![image](https://user-images.githubusercontent.com/114621114/219989819-0f18399e-9abb-4917-8d96-72523e1fca63.png)
-![image](https://user-images.githubusercontent.com/114621114/219989878-ae467693-631f-4035-a564-61f16b3fbcf3.png)
+Результаты приведены в виде файлов pdf в папке data.
+#### ENCFF411MHC
+![image](https://user-images.githubusercontent.com/114621114/221864955-002a3a58-7f20-4097-b2df-821ad2c8ffde.png)
+#### ENCFF479VFS
+![image](https://user-images.githubusercontent.com/114621114/221865199-6705f1f3-ee5c-46b8-b857-8571f329e462.png)
+#### ENCFF364HZK
+![image](https://user-images.githubusercontent.com/114621114/221865331-c4312f69-a007-4811-9a88-b12bcfc22dda.png)
+#### MultiQC
+![image](https://user-images.githubusercontent.com/114621114/221865725-907108ba-6cca-4067-aa78-3ba456602ee8.png)
+
 Не было необходимости подрезать чтения.
 
 ### Статистика.
@@ -19,5 +25,16 @@ ENCFF364HZK | 69344412 | 2820775 | 4540146 |61983491
 
 ### Диаграммы Венна.
 Диаграммы приведены в виде файлов pdf в папке data.
+#### ENCFF411MHC
+![image](https://user-images.githubusercontent.com/114621114/221866591-07cb53c6-4c2c-4c85-a8f0-c275486abc56.png)
+![image](https://user-images.githubusercontent.com/114621114/221866726-2fa6f11c-0be9-46e1-8e85-c7f286bbee96.png)
+#### ENCFF479VFS
+![image](https://user-images.githubusercontent.com/114621114/221866906-0280fd95-7066-488f-b033-4fec9ad0becd.png)
+![image](https://user-images.githubusercontent.com/114621114/221867036-045b6f3a-6df9-419f-b497-601196eae781.png)
 
 Количество пересечений отличается, поскольку в одном случае берутся полученные пики, пересекающиеся с пиками ENCODE; а в другом случае отбираются пики ENCODE, совпавшие с пиками, которые получили мы.
+
+### ngs.plot
+ENCFF411MHC | ENCFF479VFS
+- | -
+
