@@ -44,7 +44,7 @@ ENCFF364HZK | 69344412 | 2820775 | 4540146 |61983491
 
 ENCFF411MHC | ENCFF479VFS
 -|-
-![](data/result_1.png) | ![](data/result_1.png)
+![](data/result_1.png) | ![](data/result_2.png)
 
 ![image](https://user-images.githubusercontent.com/114621114/221872447-7f537a07-b01b-4c10-be47-45045640513e.png)
 Li e. al. (2007) Cell
