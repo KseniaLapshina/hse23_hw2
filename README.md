@@ -1,5 +1,11 @@
 # hse23_hw2
+Основное задание и 1 часть бонуса:
+
 https://colab.research.google.com/drive/1B_VT25idB199oDCpcM5npTGaSCH3IQS7?usp=sharing
+
+Копия блокнота, 2 часть бонуса:
+
+https://colab.research.google.com/drive/1Q3j8aRj5P5g-EacT2bpVyGcw4hHPHgle?usp=sharing
 
 ### FastQC и MultiQC анализ.
 Результаты приведены в виде файлов pdf в папке data.
